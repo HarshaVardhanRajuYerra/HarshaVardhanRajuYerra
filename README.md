@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsha Vardhan Raju Yerra</h1>
 <h3 align="center">A passionate frontend developer f🚀 Ethical Hacker | Cybersecurity Researcher | Founder of Hidden Hackers |co-founder of Cyber Orbit 365rom India</h3>
-<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/d4279b67-9bae-488f-a3fa-445d4e769927" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshavardhanrajuyerra&label=Profile%20views&color=0e75b6&style=flat" alt="harshavardhanrajuyerra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshavardhanrajuyerra" alt="harshavardhanrajuyerra" /></a> </p>
