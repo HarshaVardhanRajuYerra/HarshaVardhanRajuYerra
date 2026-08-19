@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on
 - **🔭 I’m currently working on cybersecurity tools, AI-powered security research, OSINT projects, vulnerability research, and ethical hacking education platforms 🚀🔐**
 
-- 🌱 I’m currently learning **🌱
+- 🌱 **I’m currently learning**🌱
 -  I’m currently learning advanced AI security, malware analysis, exploit development, cloud security, and next-generation cybersecurity technologies 🔐🚀**
 
 - 👯 I’m looking to collaborate on
